@@ -1,0 +1,345 @@
+order_id,customer_name,region,order_date
+1,Customer_616,Europe,2025-02-16
+2,Customer_50,Asia,2025-01-29
+3,Customer_514,Africa,2025-09-16
+4,Customer_715,Asia,2026-01-12
+5,Customer_294,Africa,2025-10-10
+6,Customer_265,Asia,2025-04-06
+7,Customer_709,Africa,2025-11-27
+8,Customer_415,Asia,2025-04-17
+9,Customer_102,"North America",2025-06-18
+10,Customer_642,"North America",2025-08-28
+11,Customer_728,"South America",2025-02-20
+12,Customer_241,Europe,2025-10-14
+13,Customer_496,Europe,2025-09-03
+14,Customer_423,"South America",2025-02-12
+15,Customer_925,Asia,2025-11-24
+16,Customer_851,Europe,2025-06-07
+17,Customer_951,Europe,2025-04-20
+18,Customer_378,"South America",2025-10-11
+19,Customer_105,Asia,2025-02-19
+20,Customer_414,Africa,2025-02-19
+21,Customer_610,Asia,2025-07-24
+22,Customer_833,"South America",2025-08-10
+23,Customer_696,Europe,2025-03-08
+24,Customer_522,"North America",2025-03-05
+25,Customer_473,"South America",2025-06-08
+26,Customer_110,Asia,2025-06-19
+27,Customer_35,Asia,2025-10-15
+28,Customer_743,"South America",2025-11-19
+29,Customer_698,"South America",2026-01-20
+30,Customer_569,Africa,2025-02-07
+31,Customer_402,"North America",2025-05-03
+32,Customer_910,Asia,2025-12-30
+33,Customer_623,"South America",2025-07-24
+34,Customer_399,Africa,2025-06-05
+35,Customer_836,Europe,2025-06-16
+36,Customer_960,Asia,2025-11-15
+37,Customer_573,"South America",2025-04-15
+38,Customer_81,Europe,2025-08-30
+39,Customer_59,Africa,2025-02-24
+40,Customer_436,Europe,2025-08-16
+41,Customer_609,Africa,2025-03-14
+42,Customer_557,"North America",2025-08-10
+43,Customer_57,"North America",2025-05-23
+44,Customer_552,"North America",2025-07-07
+45,Customer_669,Africa,2025-03-21
+46,Customer_487,"North America",2025-03-19
+47,Customer_297,"North America",2025-07-13
+48,Customer_434,Africa,2025-01-26
+49,Customer_744,Africa,2025-09-12
+50,Customer_167,"North America",2025-12-15
+51,Customer_228,"South America",2025-05-26
+52,Customer_265,Asia,2025-07-05
+53,Customer_35,Asia,2025-02-09
+54,Customer_366,Europe,2025-06-22
+55,Customer_676,Europe,2025-05-04
+56,Customer_774,Africa,2025-06-28
+57,Customer_503,"South America",2025-09-01
+58,Customer_805,Asia,2025-12-25
+59,Customer_320,Asia,2025-05-30
+60,Customer_526,Europe,2025-08-27
+61,Customer_896,Europe,2025-11-03
+62,Customer_825,Asia,2025-11-08
+63,Customer_415,Asia,2025-08-09
+64,Customer_237,"North America",2025-09-28
+65,Customer_85,Asia,2025-06-06
+66,Customer_51,Europe,2025-09-21
+67,Customer_959,Africa,2025-01-29
+68,Customer_562,"North America",2025-01-21
+69,Customer_989,Africa,2025-10-06
+70,Customer_242,"North America",2025-05-25
+71,Customer_478,"South America",2025-05-27
+72,Customer_127,"North America",2025-03-12
+73,Customer_450,Asia,2025-02-17
+74,Customer_529,Africa,2025-02-04
+75,Customer_19,Africa,2025-03-14
+76,Customer_948,"South America",2025-07-14
+77,Customer_210,Asia,2025-10-23
+78,Customer_850,Asia,2026-01-12
+79,Customer_446,Europe,2025-09-12
+80,Customer_708,"South America",2026-01-13
+81,Customer_703,"South America",2025-04-13
+82,Customer_461,Europe,2025-10-20
+83,Customer_918,"South America",2025-05-16
+84,Customer_159,Africa,2025-06-03
+85,Customer_319,Africa,2025-08-30
+86,Customer_651,Europe,2025-11-23
+87,Customer_963,"South America",2025-05-31
+88,Customer_261,Europe,2025-07-30
+89,Customer_601,Europe,2025-08-16
+90,Customer_865,Asia,2025-08-29
+91,Customer_569,Africa,2025-05-14
+92,Customer_123,"South America",2025-11-15
+93,Customer_122,"North America",2025-09-29
+94,Customer_602,"North America",2025-04-01
+95,Customer_709,Africa,2025-03-14
+96,Customer_400,Asia,2025-06-14
+97,Customer_381,Europe,2025-11-03
+98,Customer_980,Asia,2025-05-19
+99,Customer_104,Africa,2025-08-26
+100,Customer_725,Asia,2025-05-03
+101,Customer_719,Africa,2025-01-24
+102,Customer_396,Europe,2025-04-06
+103,Customer_972,"North America",2025-03-14
+104,Customer_604,Africa,2025-07-18
+105,Customer_587,"North America",2025-07-27
+106,Customer_408,"South America",2025-04-26
+107,Customer_203,"South America",2025-10-02
+108,Customer_224,Africa,2025-05-07
+109,Customer_456,Europe,2025-06-10
+110,Customer_148,"South America",2025-07-06
+111,Customer_374,Africa,2025-12-11
+112,Customer_117,"North America",2025-10-22
+113,Customer_355,Asia,2026-01-11
+114,Customer_102,"North America",2025-08-03
+115,Customer_288,"South America",2025-04-15
+116,Customer_311,Europe,2025-12-22
+117,Customer_704,Africa,2025-07-13
+118,Customer_440,Asia,2025-11-16
+119,Customer_120,Asia,2025-05-23
+120,Customer_666,Europe,2025-06-01
+121,Customer_529,Africa,2025-09-11
+122,Customer_552,"North America",2025-04-02
+123,Customer_89,Africa,2025-08-13
+124,Customer_200,Asia,2025-07-08
+125,Customer_410,Asia,2025-05-22
+126,Customer_784,Africa,2025-09-04
+127,Customer_845,Asia,2025-09-16
+128,Customer_367,"North America",2025-08-19
+129,Customer_151,Europe,2025-06-15
+130,Customer_967,"North America",2025-08-17
+131,Customer_445,Asia,2025-03-01
+132,Customer_614,Africa,2025-07-10
+133,Customer_370,Asia,2025-11-05
+134,Customer_655,Asia,2026-01-14
+135,Customer_891,Europe,2025-09-23
+136,Customer_78,"South America",2025-07-30
+137,Customer_605,Asia,2025-11-12
+138,Customer_496,Europe,2025-05-25
+139,Customer_322,"North America",2025-10-15
+140,Customer_869,Africa,2025-11-10
+141,Customer_667,"North America",2025-08-19
+142,Customer_549,Africa,2025-08-04
+143,Customer_111,Europe,2025-03-01
+144,Customer_627,"North America",2025-08-05
+145,Customer_172,"North America",2025-08-18
+146,Customer_610,Asia,2025-04-23
+147,Customer_615,Asia,2025-02-04
+148,Customer_605,Asia,2025-05-27
+149,Customer_225,Asia,2025-03-20
+150,Customer_402,"North America",2025-10-31
+151,Customer_668,"South America",2025-11-02
+152,Customer_575,Asia,2026-01-16
+153,Customer_384,Africa,2025-05-18
+154,Customer_410,Asia,2025-10-08
+155,Customer_131,Europe,2025-11-01
+156,Customer_974,Africa,2025-10-10
+157,Customer_511,Europe,2025-10-02
+158,Customer_768,"South America",2025-10-25
+159,Customer_80,Asia,2025-02-15
+160,Customer_514,Africa,2025-10-13
+161,Customer_467,"North America",2025-05-27
+162,Customer_923,"South America",2025-10-10
+163,Customer_717,"North America",2025-04-30
+164,Customer_65,Asia,2025-08-15
+165,Customer_687,"North America",2025-07-03
+166,Customer_979,Africa,2025-12-26
+167,Customer_230,Asia,2025-09-22
+168,Customer_827,"North America",2025-07-15
+169,Customer_13,"South America",2025-10-09
+170,Customer_51,Europe,2026-01-17
+171,Customer_438,"South America",2025-05-27
+172,Customer_900,Asia,2025-06-12
+173,Customer_803,"South America",2025-12-04
+174,Customer_191,Europe,2025-09-16
+175,Customer_674,Africa,2025-09-22
+176,Customer_600,Asia,2025-09-27
+177,Customer_777,"North America",2026-01-19
+178,Customer_520,Asia,2025-02-14
+179,Customer_437,"North America",2025-12-08
+180,Customer_287,"North America",2025-03-13
+181,Customer_93,"South America",2025-03-25
+182,Customer_737,"North America",2025-02-24
+183,Customer_742,"North America",2025-10-08
+184,Customer_546,Europe,2026-01-02
+185,Customer_95,Asia,2025-05-28
+186,Customer_877,"North America",2025-05-31
+187,Customer_434,Africa,2025-08-06
+188,Customer_498,"South America",2025-10-19
+189,Customer_756,Europe,2025-05-14
+190,Customer_858,"South America",2025-12-09
+191,Customer_535,Asia,2025-12-25
+192,Customer_240,Asia,2025-04-09
+193,Customer_386,Europe,2025-07-21
+194,Customer_806,Europe,2025-12-25
+195,Customer_678,"South America",2025-04-10
+196,Customer_538,"South America",2025-12-12
+197,Customer_763,"South America",2025-07-06
+198,Customer_562,"North America",2025-12-25
+199,Customer_714,Africa,2025-04-14
+200,Customer_972,"North America",2025-07-18
+201,Customer_367,"North America",2025-11-24
+202,Customer_955,Asia,2025-05-12
+203,Customer_226,Europe,2025-12-13
+204,Customer_238,"South America",2025-06-26
+205,Customer_343,"South America",2025-01-31
+206,Customer_711,Europe,2025-11-04
+207,Customer_39,Africa,2025-07-19
+208,Customer_48,"South America",2025-07-21
+209,Customer_838,"South America",2025-01-26
+210,Customer_985,Asia,2025-01-27
+211,Customer_565,Asia,2025-05-21
+212,Customer_594,Africa,2025-02-03
+213,Customer_904,Africa,2025-03-23
+214,Customer_773,"South America",2025-06-25
+215,Customer_532,"North America",2025-03-07
+216,Customer_162,"North America",2025-10-18
+217,Customer_138,"South America",2026-01-02
+218,Customer_541,Europe,2025-08-05
+219,Customer_689,Africa,2025-04-25
+220,Customer_505,Asia,2025-09-10
+221,Customer_873,"South America",2025-11-10
+222,Customer_224,Africa,2025-07-13
+223,Customer_900,Asia,2025-12-15
+224,Customer_206,Europe,2025-06-17
+225,Customer_303,"South America",2025-02-21
+226,Customer_558,"South America",2025-06-27
+227,Customer_618,"South America",2025-02-13
+228,Customer_437,"North America",2025-03-04
+229,Customer_996,Europe,2025-09-09
+230,Customer_875,Asia,2025-02-07
+231,Customer_285,Asia,2025-06-29
+232,Customer_26,Europe,2025-10-08
+233,Customer_417,"North America",2025-10-07
+234,Customer_554,Africa,2025-12-22
+235,Customer_687,"North America",2025-08-27
+236,Customer_194,Africa,2025-10-01
+237,Customer_253,"South America",2025-09-09
+238,Customer_79,Africa,2025-05-18
+239,Customer_594,Africa,2025-03-27
+240,Customer_721,Europe,2025-02-21
+241,Customer_607,"North America",2025-07-21
+242,Customer_807,"North America",2025-07-05
+243,Customer_637,"North America",2025-05-15
+244,Customer_892,"North America",2025-01-25
+245,Customer_534,Africa,2025-07-06
+246,Customer_902,"North America",2025-09-28
+247,Customer_873,"South America",2025-04-29
+248,Customer_563,"South America",2025-11-25
+249,Customer_237,"North America",2025-04-02
+250,Customer_740,Asia,2025-04-22
+251,Customer_573,"South America",2025-03-21
+252,Customer_843,"South America",2026-01-13
+253,Customer_968,"South America",2025-04-18
+254,Customer_548,"South America",2025-09-05
+255,Customer_595,Asia,2025-03-13
+256,Customer_129,Africa,2025-08-12
+257,Customer_253,"South America",2025-08-17
+258,Customer_302,"North America",2025-09-02
+259,Customer_971,Europe,2025-03-11
+260,Customer_167,"North America",2025-07-03
+261,Customer_950,Asia,2025-04-09
+262,Customer_906,Europe,2025-10-12
+263,Customer_293,"South America",2025-10-25
+264,Customer_12,"North America",2025-02-10
+265,Customer_93,"South America",2025-10-14
+266,Customer_360,Asia,2025-02-27
+267,Customer_494,Africa,2025-08-06
+268,Customer_858,"South America",2025-12-27
+269,Customer_592,"North America",2025-11-13
+270,Customer_132,"North America",2025-08-07
+271,Customer_403,"South America",2026-01-01
+272,Customer_412,"North America",2025-02-19
+273,Customer_705,Asia,2025-09-03
+274,Customer_293,"South America",2025-03-30
+275,Customer_11,Europe,2025-07-05
+276,Customer_566,Europe,2025-08-22
+277,Customer_537,"North America",2025-12-15
+278,Customer_469,Africa,2025-10-23
+279,Customer_730,Asia,2025-06-19
+280,Customer_512,"North America",2025-04-26
+281,Customer_753,"South America",2025-09-09
+282,Customer_378,"South America",2025-12-13
+283,Customer_377,"North America",2025-03-02
+284,Customer_920,Asia,2025-07-08
+285,Customer_536,Europe,2026-01-04
+286,Customer_589,Africa,2025-09-14
+287,Customer_888,"South America",2025-11-24
+288,Customer_487,"North America",2025-11-02
+289,Customer_768,"South America",2025-05-16
+290,Customer_226,Europe,2025-07-05
+291,Customer_715,Asia,2025-12-27
+292,Customer_920,Asia,2025-08-19
+293,Customer_592,"North America",2025-05-30
+294,Customer_918,"South America",2025-09-28
+295,Customer_636,Europe,2025-02-14
+296,Customer_97,"North America",2025-04-23
+297,Customer_687,"North America",2025-06-18
+298,Customer_980,Asia,2025-08-28
+299,Customer_368,"South America",2025-12-25
+300,Customer_360,Asia,2025-09-12
+301,Customer_415,Asia,2025-11-15
+302,Customer_624,Africa,2025-06-20
+303,Customer_66,Europe,2025-06-06
+304,Customer_643,"South America",2025-07-08
+305,Customer_674,Africa,2025-05-16
+306,Customer_257,"North America",2025-03-10
+307,Customer_579,Africa,2025-05-13
+308,Customer_750,Asia,2025-08-25
+309,Customer_694,Africa,2025-07-12
+310,Customer_469,Africa,2026-01-18
+311,Customer_581,Europe,2025-05-03
+312,Customer_551,Europe,2025-07-15
+313,Customer_647,"North America",2025-03-27
+314,Customer_695,Asia,2025-07-30
+315,Customer_586,Europe,2025-09-09
+316,Customer_771,Europe,2025-05-20
+317,Customer_213,"South America",2025-05-07
+318,Customer_396,Europe,2025-03-07
+319,Customer_605,Asia,2025-03-15
+320,Customer_437,"North America",2025-12-27
+321,Customer_783,"South America",2025-08-18
+322,Customer_233,"South America",2025-07-29
+323,Customer_223,"South America",2025-12-11
+324,Customer_385,Asia,2025-07-06
+325,Customer_313,"South America",2025-10-04
+326,Customer_232,"North America",2025-02-21
+327,Customer_187,"North America",2025-06-16
+328,Customer_431,Europe,2025-05-29
+329,Customer_513,"South America",2025-04-28
+330,Customer_853,"South America",2025-08-25
+331,Customer_254,Africa,2025-05-15
+332,Customer_547,"North America",2025-02-03
+333,Customer_165,Asia,2025-06-24
+334,Customer_297,"North America",2025-10-12
+335,Customer_519,Africa,2025-09-09
+336,Customer_575,Asia,2025-10-26
+337,Customer_159,Africa,2025-09-05
+338,Customer_332,"North America",2025-11-13
+339,Customer_798,"South America",2026-01-13
+340,Customer_561,Europe,2026-01-10
+341,Customer_29,Africa,2025-10-24
+342,Customer_395,Asia,2025-08-20
+343,Customer_366,Europe,2025-06-23
+344,Customer_493,"South America",2025-12-23
